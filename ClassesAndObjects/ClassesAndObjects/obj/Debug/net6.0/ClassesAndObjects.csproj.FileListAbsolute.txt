@@ -1,0 +1,15 @@
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.exe
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.deps.json
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.runtimeconfig.json
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.dll
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.pdb
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.csproj.AssemblyReference.cache
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.dll
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\refint\ClassesAndObjects.dll
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.pdb
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.genruntimeconfig.cache
+C:\Snega\C#\MyRepo\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ref\ClassesAndObjects.dll

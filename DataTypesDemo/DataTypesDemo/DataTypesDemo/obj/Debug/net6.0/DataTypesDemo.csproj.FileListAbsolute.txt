@@ -1,0 +1,15 @@
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.exe
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.deps.json
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.runtimeconfig.json
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.dll
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\bin\Debug\net6.0\DataTypesDemo.pdb
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.csproj.AssemblyReference.cache
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.AssemblyInfoInputs.cache
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.AssemblyInfo.cs
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.csproj.CoreCompileInputs.cache
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.dll
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\refint\DataTypesDemo.dll
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.pdb
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\DataTypesDemo.genruntimeconfig.cache
+C:\Snega\C#\MyRepo\DataTypesDemo\DataTypesDemo\DataTypesDemo\obj\Debug\net6.0\ref\DataTypesDemo.dll
