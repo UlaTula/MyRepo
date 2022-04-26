@@ -1,0 +1,15 @@
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.csproj.AssemblyReference.cache
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.AssemblyInfoInputs.cache
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.AssemblyInfo.cs
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.csproj.CoreCompileInputs.cache
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\bin\Debug\net6.0\UzdevumsCar.exe
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\bin\Debug\net6.0\UzdevumsCar.deps.json
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\bin\Debug\net6.0\UzdevumsCar.runtimeconfig.json
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\bin\Debug\net6.0\UzdevumsCar.dll
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\bin\Debug\net6.0\UzdevumsCar.pdb
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.dll
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\refint\UzdevumsCar.dll
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.pdb
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\UzdevumsCar.genruntimeconfig.cache
+C:\Snega\C#\MyRepo\UzdevumsCar\UzdevumsCar\obj\Debug\net6.0\ref\UzdevumsCar.dll

@@ -1,0 +1,15 @@
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\bin\Debug\net6.0\UzdevumsTelefons.exe
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\bin\Debug\net6.0\UzdevumsTelefons.deps.json
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\bin\Debug\net6.0\UzdevumsTelefons.runtimeconfig.json
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\bin\Debug\net6.0\UzdevumsTelefons.dll
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\bin\Debug\net6.0\UzdevumsTelefons.pdb
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.csproj.AssemblyReference.cache
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.AssemblyInfoInputs.cache
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.AssemblyInfo.cs
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.csproj.CoreCompileInputs.cache
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.dll
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\refint\UzdevumsTelefons.dll
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.pdb
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\UzdevumsTelefons.genruntimeconfig.cache
+C:\Snega\C#\MyRepo\UzdevumsTelefons\UzdevumsTelefons\obj\Debug\net6.0\ref\UzdevumsTelefons.dll
