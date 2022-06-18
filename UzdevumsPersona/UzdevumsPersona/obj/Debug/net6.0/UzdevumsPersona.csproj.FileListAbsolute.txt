@@ -1,0 +1,15 @@
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\bin\Debug\net6.0\UzdevumsPersona.exe
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\bin\Debug\net6.0\UzdevumsPersona.deps.json
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\bin\Debug\net6.0\UzdevumsPersona.runtimeconfig.json
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\bin\Debug\net6.0\UzdevumsPersona.dll
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\bin\Debug\net6.0\UzdevumsPersona.pdb
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.csproj.AssemblyReference.cache
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.AssemblyInfoInputs.cache
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.AssemblyInfo.cs
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.csproj.CoreCompileInputs.cache
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.dll
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\refint\UzdevumsPersona.dll
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.pdb
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\UzdevumsPersona.genruntimeconfig.cache
+C:\Snega\C#\MyRepo\UzdevumsPersona\UzdevumsPersona\obj\Debug\net6.0\ref\UzdevumsPersona.dll
